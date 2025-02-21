@@ -11,7 +11,7 @@
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shreesha-shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Sohan Subodh Kumar" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/shreesha-shetty](https://www.linkedin.com/in/shreesha-shetty-b18387239/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Sohan Subodh Kumar" height="30" width="40" /></a>
    
 <a href="https://instagram.com/_shreesha_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="sohan10012" height="30" width="40" /></a>
 </p>
