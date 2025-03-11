@@ -65,12 +65,5 @@
 
 
 
-<h3 align="center">Stats</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreesha001&layout=compact&theme=highcontrast" alt=Shreesha001 />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreesha001&show_icons=true&locale=en&theme=midnight-purple" alt="Shreesha001" /><br> <br> <br> <br> <br> 
-</div> 
-<br><br>
-
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
