@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shreesha Shetty</h1>
-<h3 align="center">Student at Dayananda Sagar College Of Engineering</h3>
+### 🌟 About Me 
 
-- 💻 Flutter Developer
+- 🔭 Currently exploring **Data Science** and enhancing my skills with **Flutter**.  
+- ⚡ I enjoy **building cross-platform mobile apps** and **solving coding challenges**.
 
 <h3 align="left">Connect with me:</h3>
-
 <a href="mailto:shettyshreesha@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -14,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -83,6 +82,8 @@
   </a>
 </p>
 
+
+
 <h2 align="center">LeetCode Info</h2> 
 <p align="center">
   <a href="https://leetcode.com/Shreesha_/" target="_blank">
@@ -92,15 +93,26 @@
 <p align="center">
   <img align="top" src="https://leetcard.jacoblin.cool/Shreesha_?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
-<br>
 
-<h3 align="center">Stats</h3>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreesha001&layout=compact&theme=highcontrast" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreesha001&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreesha001&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+<h3 align="center">GitHub Stats</h3>
+
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=shreesha001&theme=neon-palenight&hide_border=true&card_width=800" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Shreesha001&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" height="180em" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreesha001&layout=compact&theme=highcontrast" alt="Top Languages" height="180em" />
+    </td>
+  </tr>
+</table>
+
 <br><br>
-
-<img src="https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg" alt="footer"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg" alt="footer" />
+</p>
