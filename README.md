@@ -88,7 +88,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=shreesha001&theme=neon-palenight&hide_border=true&card_width=800" alt="GitHub Streak" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=shreesha001&theme=neon-palenight&hide_border=true&card_width=750" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
