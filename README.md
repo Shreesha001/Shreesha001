@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin" />
 </a>
 
-<h3 align="left">Languages and Tools:</h3>
+# 💻 Tech Stack:
 <p align="left"> 
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -84,33 +84,27 @@
 
 
 
-<h2 align="center">LeetCode Info</h2> 
-<p align="center">
-  <a href="https://leetcode.com/Shreesha_/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 days Badge" height="200" width="200" />
-  </a>
-</p>
-<p align="center">
-  <img align="top" src="https://leetcard.jacoblin.cool/Shreesha_?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
-
-<h3 align="center">GitHub Stats</h3>
-
+# 📊 GitHub Stats:
 <table align="center">
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=shreesha001&theme=neon-palenight&hide_border=true&card_width=800" />
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=shreesha001&theme=neon-palenight&hide_border=true&card_width=800" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreesha001&theme=2077" alt="GitHub Profile Details" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Shreesha001&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" height="180em" />
-    </td>
-    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreesha001&layout=compact&theme=highcontrast" alt="Top Languages" height="180em" />
     </td>
   </tr>
 </table>
+
+
 
 <br><br>
 <p align="center">
